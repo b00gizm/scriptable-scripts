@@ -6,7 +6,7 @@ Access today's menu of trivago's Culture Kitchen from Siri.
 
 1. Download [Scriptable](https://itunes.apple.com/de/app/scriptable/id1405459188?mt=8) for free from the [AppStore](https://itunes.apple.com/de/app/scriptable/id1405459188?mt=8) and open it at least once
 
-2. Click on the [following link](https://uc49995fbfcbb06486ab7a5655f0.dl.dropboxusercontent.com/cd/0/get/AgNwvM5e5E3_08O_67INRQiprw-NSIAxOS4aw53ZVy1AIxI21e9k4dpc6F0Ot0GdtQmyzXPOrag1zIkprufolOGhSHDVpDlJs9E21-JWaNERlQ/file?dl=1) (it will open in your browser)
+2. Click on the [following link](https://ucf45cd355da9626def46267c4d6.dl.dropboxusercontent.com/cd/0/get/AgSk__AcVNdvu6J_PDrqfJL9F45XMIyu4UVMijtQRdEUFQ81fd6b6YeDdbZAnPzCskzkstK_AUrww3ihhcE8jlI7OmTjmr-DPR7seKL_tDGvDg/file?dl=1) (it will open in your browser)
 
 3. Tap on **'Open in "Scriptable"'**
 
@@ -30,7 +30,7 @@ Access today's menu of trivago's Culture Kitchen from Siri.
 
 ![siri-culture-kitchen.gif](https://raw.githubusercontent.com/b00giZm/scriptable-scripts/master/culture-kitchen/siri-culture-kitchen.gif)
 
-Siri should then respond with with today's menu. (If not, repeat the last step a few times. For me, it worked after the 3rd try)
+Siri should then respond with with today's menu. (If not, repeat the last step a few times. For me, it started working after the 3rd try or so)
 
 ## Maintainer
 
