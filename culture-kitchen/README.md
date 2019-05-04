@@ -30,7 +30,7 @@ Access today's menu of trivago's Culture Kitchen from Siri.
 
 ![siri-culture-kitchen.gif](https://raw.githubusercontent.com/b00giZm/scriptable-scripts/master/culture-kitchen/siri-culture-kitchen.gif)
 
-Siri should then respond with with today's menu. (If not, retry step 8 a few times. For me, it worked after the 3rd try)
+Siri should then respond with with today's menu. (If not, repeat the last step a few times. For me, it worked after the 3rd try)
 
 ## Maintainer
 
