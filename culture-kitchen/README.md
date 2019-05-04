@@ -28,7 +28,7 @@ Access today's menu of trivago's Culture Kitchen from Siri.
 
 8. Active Siri (double-click the sleep/wake button of your phone) followed by 	your custom phrase.
 
-![siri-culture-kitchen-step05](https://raw.githubusercontent.com/b00giZm/scriptable-scripts/master/culture-kitchen/siri-culture-kitchen-step05.png)
+![siri-culture-kitchen.gif](https://raw.githubusercontent.com/b00giZm/scriptable-scripts/master/culture-kitchen/siri-culture-kitchen.gif)
 
 Siri should then respond with with today's menu. (If not, retry step 8 a few times. For me, it worked after the 3rd try)
 
