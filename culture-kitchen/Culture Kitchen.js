@@ -48,8 +48,13 @@ const fn = (date) => {
   return dishes;
 };
 
+let selectedDate = today;
 const dayOfWeek = new Date().getDay();
-const selectedDate = (dayOfWeek == 6 || dayOfWeek == 7) ? inDays(8 - dayOfWeek) : today;
+if (dayOfWeek == 6) {
+  selectedDate = inDays(2);
+} else if (dayOfWeek == 0) {
+  selectedDate = tomorrow;
+}
 
 const js = `const fn = ${fn.toString()}; completion(fn("${selectedDate}"));`;
 const url = "http://trivago.food-affairs.de/trivago/web-app/";
