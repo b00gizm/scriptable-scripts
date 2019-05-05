@@ -6,7 +6,7 @@ Access today's menu of trivago's Culture Kitchen from Siri.
 
 1. Download [Scriptable](https://itunes.apple.com/de/app/scriptable/id1405459188?mt=8) for free from the [AppStore](https://itunes.apple.com/de/app/scriptable/id1405459188?mt=8) and open it at least once
 
-2. Click on the [following link](https://ucf45cd355da9626def46267c4d6.dl.dropboxusercontent.com/cd/0/get/AgSk__AcVNdvu6J_PDrqfJL9F45XMIyu4UVMijtQRdEUFQ81fd6b6YeDdbZAnPzCskzkstK_AUrww3ihhcE8jlI7OmTjmr-DPR7seKL_tDGvDg/file?dl=1) (it will open in your browser)
+2. Click on the [following link](https://uc1f1ce8b640809b107bcf41e89d.dl.dropboxusercontent.com/cd/0/get/AgRCVl1Pzn9S8-wW55r3HTarbp3p6l8gqP7bVJsabXPBqSDEazAiwKUZI81PhOA6Vq9ZJ7wXNDjr6ToDcqEdD1uvgV2WfLXkRnFQHXMHW-si9Q/file?dl=1) (it will open in your browser)
 
 3. Tap on **'Open in "Scriptable"'**
 
