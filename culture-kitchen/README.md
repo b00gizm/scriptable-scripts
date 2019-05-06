@@ -28,7 +28,7 @@ Please perform all following steps on your iOS device.
 
 7. Record a custom phrase for Siri by tapping the **red button** (e.g. "Culture Kitchen")
 
-8. Active Siri (double-click the sleep/wake button of your phone) followed by 	your custom phrase.
+8. Activate Siri (hold the sleep/wake button on your phone) followed by your custom phrase.
 
 ![siri-culture-kitchen.gif](https://raw.githubusercontent.com/b00giZm/scriptable-scripts/master/culture-kitchen/siri-culture-kitchen.gif)
 
